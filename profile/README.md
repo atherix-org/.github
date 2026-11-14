@@ -1,5 +1,5 @@
-# <img src="https://atherix.org/logo.png" width="32" alt="Atherix logo" /> Atherix
-Welcome to <img src="https://atherix.org/logo.png" width="32" alt="Atherix logo" /> **Atherix**, here we build intuitive software that shapes the future.
+# <img src="https://atherix.org/logo.png" width="64" alt="Atherix logo" /> Atherix
+Welcome to **Atherix**, here we build intuitive software that shapes the future.
 
 ## Links
 - 🌐 [Website](https://atherix.org/)
