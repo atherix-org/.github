@@ -7,8 +7,8 @@ Welcome to <img src="https://atherix.org/logo.png" width="18" alt="Atherix logo"
 - <img src="https://githubusercontent.com/atherix-org/.github/refs/heads/main/assets/discord.svg" width="18" alt="Discord" /> [Discord](https://atherix.org/discord)
 
 ## Sub-Divisions: 
-- <img src="https://avatars.githubusercontent.com/u/263438111?s=200&v=4" width="20" alt="Milicop" /> [Milicop](https://github.com/milicop): Our experimental sub-division where we try new and niche ideas.
+- <img src="https://avatars.githubusercontent.com/u/263438111?s=200&v=4" width="24" alt="Milicop" /> [Milicop](https://github.com/milicop): Our experimental sub-division where we try new and niche ideas.
 - [Carzoon Studios](https://carzoon.atherix.org): Our cartoon and story sub-division.
 
 ## Projects
-- <img src="https://raw.githubusercontent.com/atherix-org/athwinui/refs/heads/main/favicon.ico" width="20" alt="AthwinUI" /> [AthwinUI](atherix.org/athwinui): A lightweight, framework-free CSS component library.
+- <img src="https://raw.githubusercontent.com/atherix-org/athwinui/refs/heads/main/favicon.ico" width="24" alt="AthwinUI" /> [AthwinUI](atherix.org/athwinui): A lightweight, framework-free CSS component library.
