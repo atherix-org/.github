@@ -4,7 +4,7 @@ Welcome to <img src="https://atherix.org/logo.png" width="18" alt="Atherix logo"
 ## Links
 - 🌐 [Website](https://atherix.org/)
 - <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/atherix-org/.github/refs/heads/main/assets/github-white.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/atherix-org/.github/refs/heads/main/assets/github-white.svg"><img alt="GitHub" src="https://raw.githubusercontent.com/atherix-org/.github/refs/heads/main/assets/github-white.svg" width="18"></picture> [GitHub](https://atherix.org/github)
-- <img src="https://githubusercontent.com/atherix-org/.github/refs/heads/main/assets/discord.svg" width="18" alt="Discord" /> [Discord](https://atherix.org/discord)
+- <img src="https://raw.githubusercontent.com/atherix-org/.github/refs/heads/main/assets/discord.svg" width="18" alt="Discord" /> [Discord](https://atherix.org/discord)
 
 ## Sub-Divisions: 
 - <img src="https://avatars.githubusercontent.com/u/263438111?s=200&v=4" width="18" alt="Milicop" /> [Milicop](https://github.com/milicop): Our experimental sub-division where we try new and niche ideas.
