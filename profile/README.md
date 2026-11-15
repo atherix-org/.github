@@ -11,4 +11,4 @@ Welcome to **Atherix**, here we build intuitive software that shapes the future.
 - 📺 [Carzoon Studios](https://carzoon.atherix.org): Our cartoon and story sub-division.
 
 ## Projects
-- <img src="https://raw.githubusercontent.com/atherix-org/athwinui/refs/heads/main/favicon.ico" width="18" alt="AthwinUI" /> [AthwinUI](atherix.org/athwinui): A lightweight, framework-free CSS component library.
+- <img src="https://raw.githubusercontent.com/atherix-org/athwinui/refs/heads/main/favicon.ico" width="18" alt="AthwinUI" /> [AthwinUI](https://atherix.org/athwinui): A lightweight, framework-free CSS component library.
